@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesforceIQApi", "SalesforceIQApi\SalesforceIQApi.csproj", "{3EB081CD-D941-4FA8-82BA-4822F76928A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesforceIQApi.Test", "SalesforceIQApi.Test\SalesforceIQApi.Test.csproj", "{F2723DC8-8C22-4374-99A0-9847F41C61C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB081CD-D941-4FA8-82BA-4822F76928A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB081CD-D941-4FA8-82BA-4822F76928A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB081CD-D941-4FA8-82BA-4822F76928A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB081CD-D941-4FA8-82BA-4822F76928A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2723DC8-8C22-4374-99A0-9847F41C61C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2723DC8-8C22-4374-99A0-9847F41C61C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2723DC8-8C22-4374-99A0-9847F41C61C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2723DC8-8C22-4374-99A0-9847F41C61C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
