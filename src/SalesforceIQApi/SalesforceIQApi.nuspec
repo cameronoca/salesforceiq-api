@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SalesforceIQApi</id>
+    <version>1.0.0</version>
+    <title>SalesforceIQ API Wrapper</title>
+    <authors>cameronoca</authors>
+    <owners>cameronoca</owners>
+    <licenseUrl>https://github.com/cameronoca/salesforceiq-api/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cameronoca/salesforceiq-api</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/cameronoca/salesforceiq-api.nuget/master/images/salesforceiq-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET Wrapper for the SalesforceIQ REST API using RestSharp</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>SalesforceIQ Salesforce IQ API Wrapper</tags>
+  </metadata>
+</package>

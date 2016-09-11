@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SalesforceIQApi")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .NET wrapper for the SalesforceIQ REST API using RestSharp")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Cameron Wilby")]
 [assembly: AssemblyProduct("SalesforceIQApi")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
