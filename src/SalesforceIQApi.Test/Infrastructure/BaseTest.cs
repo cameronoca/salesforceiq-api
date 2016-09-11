@@ -29,6 +29,13 @@ namespace SalesforceIQApi.Test.Infrastructure
                 return ConfigurationManager.AppSettings["KnownListId"];
             }
         }
+        protected string KnownListItemId
+        {
+            get
+            {
+                return ConfigurationManager.AppSettings["KnownListItemId"];
+            }
+        }
 
         protected string KnownAccountId
         {
@@ -51,14 +58,6 @@ namespace SalesforceIQApi.Test.Infrastructure
             get
             {
                 return ConfigurationManager.AppSettings["KnownContactEmail"];
-            }
-        }
-
-        protected string KnownListItemId
-        {
-            get
-            {
-                return ConfigurationManager.AppSettings["KnownListItemId"];
             }
         }
 
